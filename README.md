@@ -3,7 +3,7 @@
 
 ## Description
 
-Classroomng is an e-learning platform for students. We have qualified teachers that are available for 24 hours response to questions from students. 
+This project is an ecommerce application that enable users to purchase goods, make payment and track their goods. Vendors can also sign up, upload vendor document and start trading. This is a an application that enables many vendors to sell at any time.
 
 
 ## Prerequiste
