@@ -1,5 +1,5 @@
 
-# Classroom NG
+# Reiss Edwards E-commerce App
 
 ## Description
 
